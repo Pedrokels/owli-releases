@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
-  "latestVersion": "0.11.3",
-  "latestBuild": 18,
-  "minSupportedBuild": 18,
+  "latestVersion": "0.11.2",
+  "latestBuild": 17,
+  "minSupportedBuild": 0,
   "apkUrl": "https://github.com/Pedrokels/owli-releases/releases/download/v0.11.2/owli-arm64.apk",
   "sha256": "47d73ab247952078826301c8351916ee14c4faf84d5739ec986a800720755564",
   "apkSize": 37881924,
@@ -21,6 +21,7 @@
   "releasePage": "https://github.com/Pedrokels/owli-releases/releases/tag/v0.11.2",
   "releaseDate": "2026-10-02",
   "releaseNotes": [
-    "TEST: required update with the wrong file (Owli must refuse it)."
+    "TEST UPDATE for checking the update system. Not a real release.",
+    "If you see this, the in-app update works."
   ]
 }
