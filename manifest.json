@@ -1,34 +1,29 @@
 {
   "manifestVersion": 1,
-  "latestVersion": "0.13.0",
-  "latestBuild": 20,
-  "minSupportedBuild": 0,
-  "apkUrl": "https://github.com/Pedrokels/owli-releases/releases/download/v0.13.0/owli-arm64.apk",
-  "sha256": "a707ad36629e921653a281da86859b5a9e8c7022b23f5af41e9b2a1ea70df1a2",
-  "apkSize": 39409314,
+  "latestVersion": "0.13.1",
+  "latestBuild": 21,
+  "minSupportedBuild": 21,
+  "apkUrl": "https://github.com/Pedrokels/owli-releases/releases/download/v0.13.1/owli-arm64.apk",
+  "sha256": "160afddf056510eae3fcf79f58c762827f97abacf26854405a123f923173b666",
+  "apkSize": 39409310,
   "apks": {
     "armeabi-v7a": {
-      "url": "https://github.com/Pedrokels/owli-releases/releases/download/v0.13.0/owli-older-phones.apk",
-      "sha256": "e4cbaccebf3640d92b8b410d6eee0ba4bc57101c5d1adef74bd0056c2e36f242",
+      "url": "https://github.com/Pedrokels/owli-releases/releases/download/v0.13.1/owli-older-phones.apk",
+      "sha256": "c52d3aafae9ff6faa86fca91e5f94c8cef5bf98dd1d40a0e74431c52bab2e625",
       "size": 36245778
     }
   },
-  "releasePage": "https://github.com/Pedrokels/owli-releases/releases/tag/v0.13.0",
+  "releasePage": "https://github.com/Pedrokels/owli-releases/releases/tag/v0.13.1",
   "releaseDate": "2026-10-04",
   "releaseNotes": [
-    "Owli for your computer: the full workspace, with a sidebar, a class dashboard, the month attendance grid and the class record as a spreadsheet.",
-    "Phone and computer: copy everything between your phone and your computer over Wi-Fi, and keep going on the other device. It's a copy, not live sync; both need this version.",
-    "After a copy, Owli tells you which device has the newer copy and warns before replacing changes.",
-    "Each class has its own colour, the same on your phone and computer.",
-    "School calendar: enter your period dates once, and Owli knows the current period.",
-    "No-class days: record holidays and class suspensions so they don't count as days without attendance."
+    "On the computer: Owli no longer gets stuck on the opening screen, and class reminders no longer repeat."
   ],
   "windows": {
-    "latestVersion": "0.13.0",
-    "latestBuild": 20,
-    "minSupportedBuild": 0,
-    "url": "https://github.com/Pedrokels/owli-releases/releases/download/v0.13.0/OwliSetup-0.13.0.exe",
-    "sha256": "b9f583048bcc8e9ce0b47c41a27368237ff160d99b78b00f640fb51105b2909a",
-    "size": 18785427
+    "latestVersion": "0.13.1",
+    "latestBuild": 21,
+    "minSupportedBuild": 21,
+    "url": "https://github.com/Pedrokels/owli-releases/releases/download/v0.13.1/OwliSetup-0.13.1.exe",
+    "sha256": "2672071c890e2a4c3831f1b4272b49d6758648e4363747c1341f8b4f81e222c2",
+    "size": 18782098
   }
 }
