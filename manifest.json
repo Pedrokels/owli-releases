@@ -1,24 +1,34 @@
 {
   "manifestVersion": 1,
-  "latestVersion": "0.12.0",
-  "latestBuild": 19,
+  "latestVersion": "0.13.0",
+  "latestBuild": 20,
   "minSupportedBuild": 0,
-  "apkUrl": "https://github.com/Pedrokels/owli-releases/releases/download/v0.12.0/owli-arm64.apk",
-  "sha256": "3e4ebe14003c80abe664dafc41e646c20970458bd3e8bd8036063c75a5ee7c93",
-  "apkSize": 37881928,
+  "apkUrl": "https://github.com/Pedrokels/owli-releases/releases/download/v0.13.0/owli-arm64.apk",
+  "sha256": "a707ad36629e921653a281da86859b5a9e8c7022b23f5af41e9b2a1ea70df1a2",
+  "apkSize": 39409314,
   "apks": {
     "armeabi-v7a": {
-      "url": "https://github.com/Pedrokels/owli-releases/releases/download/v0.12.0/owli-older-phones.apk",
-      "sha256": "f446f2550a812585d3b7369881608cf4ae08e66c2c4c605322d72edccc02335b",
-      "size": 34538172
+      "url": "https://github.com/Pedrokels/owli-releases/releases/download/v0.13.0/owli-older-phones.apk",
+      "sha256": "e4cbaccebf3640d92b8b410d6eee0ba4bc57101c5d1adef74bd0056c2e36f242",
+      "size": 36245778
     }
   },
-  "releasePage": "https://github.com/Pedrokels/owli-releases/releases/tag/v0.12.0",
-  "releaseDate": "2026-10-02",
+  "releasePage": "https://github.com/Pedrokels/owli-releases/releases/tag/v0.13.0",
+  "releaseDate": "2026-10-04",
   "releaseNotes": [
-    "Updates inside Owli: when a new version is out, Owli offers it. Updating keeps all your classes and records.",
-    "Settings > About: see your version and check for updates any time.",
-    "Your class data is never copied to online backups.",
-    "Safer updates: Owli saves a copy of your data before changing it."
-  ]
+    "Owli for your computer: the full workspace, with a sidebar, a class dashboard, the month attendance grid and the class record as a spreadsheet.",
+    "Phone and computer: copy everything between your phone and your computer over Wi-Fi, and keep going on the other device. It's a copy, not live sync; both need this version.",
+    "After a copy, Owli tells you which device has the newer copy and warns before replacing changes.",
+    "Each class has its own colour, the same on your phone and computer.",
+    "School calendar: enter your period dates once, and Owli knows the current period.",
+    "No-class days: record holidays and class suspensions so they don't count as days without attendance."
+  ],
+  "windows": {
+    "latestVersion": "0.13.0",
+    "latestBuild": 20,
+    "minSupportedBuild": 0,
+    "url": "https://github.com/Pedrokels/owli-releases/releases/download/v0.13.0/OwliSetup-0.13.0.exe",
+    "sha256": "b9f583048bcc8e9ce0b47c41a27368237ff160d99b78b00f640fb51105b2909a",
+    "size": 18785427
+  }
 }
